@@ -15,8 +15,8 @@
 {
 
     color: darkgoldenrod;
-    background-color: rgba(51, 86, 86, 0.921);
-
+    background-color: rgba(31, 63, 63, 0.921);
+    
 }
   
 
@@ -26,3 +26,20 @@
 }
 
 
+.float
+{
+    float: left;
+    width: 33.33%;
+    
+}
+
+.clearfix
+{
+    clear: left;
+    
+}
+
+.link
+{
+    color: darkgoldenrod;
+}
